@@ -1,0 +1,1098 @@
+/* NEW PAGES STYLE SHEET INFO */
+
+@import url(http://fonts.googleapis.com/css?family=Hind:400,600|Rock+Salt|Nothing+You+Could+Do|Architects+Daughter);
+
+body {
+   font-family: 'Hind',sans-serif; */
+}
+
+a:link {
+	color:#0000FF;
+	font-family:inherit;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#0000FF;
+	font-family:inherit;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#0000FF;
+	font-family:inherit;
+	text-decoration:underline;
+}
+
+a:active {
+	color:#0000FF;
+	font-family:inherit;
+	text-decoration:none;
+}
+
+.tbl_primary {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	width: 600px;
+	border: thin solid White
+}
+
+.tbl_primary_border {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 0px;
+	margin: 0px;
+	border: medium solid Navy;
+} 
+ 
+.tbl_primary_centeralign {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+	border: none;
+}
+
+.tbl_general_border {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+} 
+ 
+.tbl_coordlist_heading {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+} 
+ 
+.tbl_coordlist_cell {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+} 
+ 
+.tbl_banner {
+	background-color:#FFCC99;
+	color:#000080;
+	font-family:inherit;
+	font-size:10pt;
+	text-align:left;
+	vertical-align:middle;
+	padding:5px;
+	margin:5px;
+	border:thin solid Navy;
+}
+
+.tbl_home_menu_border {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 0px;
+	margin: 0px;
+	width: 600px;
+	border: medium solid Navy;
+} 
+ 
+.tbl_home_menu {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	width: 600px;
+	border: thin solid White;
+} 
+
+.tbl_home_menu_banner {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 600px;
+	border: thin solid White;
+} 
+
+.tbl_store_menu_banner {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	width: 600px;
+	border: thin solid White;
+} 
+
+.tbl_mail_form	{
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	padding: 0px;
+	margin: 0px;
+	width: 600px;
+	border: thin solid Navy;
+}
+
+.tbl_mail_form_cell {
+	color: #000080;
+	font-family: inherit;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+}
+
+.tbl_mail_form_cell_verifyimg {
+	color: #000080;
+	font-family: inherit;
+	text-align: left;
+	vertical-align: middle;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+}
+
+.tbl_mail_form_cell_submit {
+	color: #000080;
+	font-family: inherit;
+	text-align: left;
+	vertical-align: middle;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+}
+
+.tbl_mail_form_cell_tpe {
+	color: #000080;
+	font-family: inherit;
+	background-color: #CCCC99;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+	margin: 5px;
+	border: thin solid Navy;
+}
+
+.tbl_avail_dogs_primary {
+	background-color:White;
+	color:#000080;
+	font-family:inherit;
+	font-size:10pt;
+	text-align:center;
+	vertical-align:top;
+	width:290px;
+	border:thin solid Navy;
+} 
+ 
+.tbl_avail_dogs_grn_photo_mug {
+	background-color:#99CC99;
+	color:#000080;
+	font-family:inherit;
+	font-size:10pt;
+	text-align:center;
+	vertical-align:top;
+	padding:5px;
+	height:150px;
+	width:105px;
+}
+
+.tbl_avail_dogs_grn_story_short {
+	background-color:#99CC99;
+	color:#000080;
+	font-family:inherit;
+	font-size:10pt;
+	text-align:left;
+	vertical-align:top;
+	padding:5px;
+	height:200px;
+}
+
+.tbl_avail_dogs_grn_summary {
+	background-color:#99CC99;
+	color:#000080;
+	font-family:inherit;
+	font-size:10pt;
+	text-align:left;
+	vertical-align:top;
+	padding: 5px;
+	height:150px;
+	width:165px;
+}
+
+.tbl_avail_dogs_no_dogs {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	width: 590px;
+	padding: 5px;
+	border: thin solid Navy;
+}
+
+.tbl_avail_dogs_tpe_center {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_success_dogs_primary {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	width: 290px;
+	border: thin solid Navy;
+} 
+ 
+.tbl_success_dogs_tpe_photo_mug {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+	height: 140px;
+	width: 105px;
+}
+
+.tbl_success_dogs_tpe_story_short {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+	height: 200px;
+}
+
+.tbl_success_dogs_tpe_summary {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_success_dogs_no_dogs {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	width: 590px;
+	padding: 5px;
+	border: thin solid Navy;
+}
+
+.banner_border_left {
+	border-left: thin double Navy;
+}
+ 
+.banner_border_top {
+	border-top: thin double Navy;
+}
+ 
+.tbl_quilt_menu_border {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 190px;
+	height: 75px;
+	padding: 5px;
+	border: thin dashed Navy;
+}
+
+.tbl_quilt_menu_border_title {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	padding: 5px;
+	border: thin dashed Navy;
+}
+
+.tbl_quilter_list_border {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	height: 115px;
+	padding: 5px;
+	border: thin dashed Navy;
+}
+
+.tbl_home_menu_grn {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 190px;
+	height: 75px;
+	padding: 5px;
+	border: none;
+}
+
+.tbl_home_menu_tpe {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 190px;
+	height: 50px;
+	padding: 5px;
+	border: none;
+}
+
+.tbl_home_menu_org {
+	background-color: #FFCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 190px;
+	height: 75px;
+	padding: 5px;
+	border: none;
+}
+
+.tbl_coord_primary {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	width: 600px;
+	border: thin solid Navy;
+} 
+ 
+.tbl_coord_wht_left {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	height: 75px;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_coord_grn_center {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 115px;
+	height: 75px;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_coord_grn_left {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	height: 75px;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_coord_grn_photo {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	height: 75px;
+	width: 75px;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_coord_tpe_center {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: middle;
+	width: 115px;
+	height: 35px;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_coord_tpe_left {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	height: 35px;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_coord_org_alert {
+	background-color: #FFCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: middle;
+	padding: 10px;
+	border: none;
+}
+
+.tbl_avail_primary {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	width: 600px;
+	border: thin solid Navy;
+} 
+ 
+.tbl_avail_wht_center {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_avail_grn_center {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_avail_grn_left {
+	background-color: #99CC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_avail_tpe_center {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_avail_tpe_left {
+	background-color: #CCCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.tbl_avail_org_center {
+	background-color: #FFCC99;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: center;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.navbar_tbl {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 8pt;
+	width: 180px;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.navbar_tbl_right {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	width: 180px;
+	text-align: right;
+	vertical-align: top;
+	padding: 5px;
+}
+
+.navbar_tbl_right_bar {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 8pt;
+	width: 180px;
+	text-align: right;
+	vertical-align: top;
+	padding: 5px;
+	border-right: thin double Navy;
+}
+
+.navbar_quotes {
+	color: #000080;
+	font-family: "Comic Sans MS", inherit;
+	font-size: 8pt;
+	text-align: right;
+}
+
+.hr_sig {
+	color: #000080;
+	width: 600px;
+}
+
+.image_borderphotos	{
+	border: none;
+	width: 100px;
+	height: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.image_coordphotos	{
+	border: none;
+	width: 75px;
+	height: 75px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+.image_waggingdog	{
+	border: none;
+	width: 64px;
+	height: 64px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+.image_elvis {
+	border: none;
+	width: 195px;
+	height: 300px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right : 10px;
+}
+
+.image_beninstamp {
+	border: none;
+	width: 293px;
+	height: 245px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right : 0px;
+}
+
+.image_rsastamp {
+	border: none;
+	width: 304px;
+	height: 233px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right : 10px;
+}
+
+.image_quilt_mug {
+	border: none;
+	width: auto;
+	height: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right : 10px;
+}
+
+.image_quiltblock {
+	border: none;
+	width: 575px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right : 0px;
+}
+
+.image_quiltblock_mug {
+	border: none;
+	width: 100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right : 10px;
+}
+
+.image_logolarge	{
+	border: none;
+	width: 180px;
+	height: 248px;
+	margin-top: 0px;
+	margin-bottom : 5px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+
+.image_logosmall	{
+	border: none;
+	width: 109px;
+	height: 150px;
+	margin-top: 0px;
+	margin-bottom : 5px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+
+.image_rrcus_logo_small	{
+	border: none;
+	width: 133px;
+	height: 132px;
+	margin-top: 0px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+
+.image_rrcc_logo_small	{
+	border: none;
+/*	width: 81px;
+	height: 150px; */
+	margin-top: 0px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+}
+
+.image_us_flag	{
+	border: none;
+	width: 100px;
+	height: 55px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right : 0px;
+}
+
+.image_canadian_flag	{
+	border: none;
+	width: 107px;
+	height: 55px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right : 0px;
+}
+
+.image_adobe	{
+	border: none;
+	margin-top: 0px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 5px;
+}
+
+.txt_7 {
+	color: #000080;
+	font-size: 7pt;
+}
+
+.txt_8 {
+	color: #000080;
+	font-size: 8pt;
+}
+
+.txt_8_b {
+	color: #000080;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.txt_8_r {
+	color: Red;
+	font-size: 8pt;
+}
+
+.txt_8_b_r {
+	color: Red;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.txt_9 {
+	color: #000080;
+	font-size: 9pt;
+}
+
+.txt_9_b {
+	color: #000080;
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.txt_9_r {
+	color: Red;
+	font-size: 9pt;
+}
+
+.txt_9_b_r {
+	color: Red;
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.txt_10 {
+	color: #000080;
+	font-size: 10pt;
+}
+
+.txt_10_i {
+	color: #000080;
+	font-size: 10pt;
+	font-style: italic;
+}
+
+.txt_10_b {
+	color: #000080;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.txt_10_b_r {
+	color: Red;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.txt_10_r {
+	color: Red;
+	font-size: 10pt;
+}
+
+.txt_12 {
+	color: #000080;
+	font-size: 12pt;
+}
+
+.txt_12_b {
+	color: #000080;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.txt_12_r {
+	color: Red;
+	font-size: 12pt;
+}
+
+.txt_12_b_r {
+	color: Red;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.txt_14 {
+	color: #000080;
+	font-size: 14pt;
+}
+
+.txt_14_b {
+	color: #000080;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.txt_14_r {
+	color: Red;
+	font-size: 14pt;
+}
+
+.txt_14_b_r {
+	color: Red;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.txt_18 {
+	color: #000080;
+	font-size: 18pt;
+}
+
+.txt_18_b {
+	color: #000080;
+	font-size: 18pt;
+	font-weight: bold;
+}
+
+.txt_18_r {
+	color: Red;
+	font-size: 18pt;
+}
+
+.txt_18_b_r {
+	color: Red;
+	font-size: 18pt;
+	font-weight: bold;
+}
+
+.txt_24_r {
+	color: #FF3300;
+	font-size: 24pt;
+}
+
+.signature {
+		color: #000080;
+		font-size: 8pt;
+		text-align: center;
+}
+
+.sig {
+		font-size: 8pt;
+		text-align: left;
+}
+
+.no_break {
+	white-space: nowrap;
+}
+
+
+/* **************** */
+
+.tbl2y {
+	background-color: #FFFF80;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+.tbl3 {
+	background-color: #C0C0C0;
+	color: #000080;
+	font-family: inherit;
+	font-size: 14pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.tbl3y {
+	background-color: #FFFF80;
+	color: #000080;
+	font-family: inherit;
+	font-size: 14pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.tbl3lg {
+	background-color: #C0C0C0;
+	color: #000080;
+	font-family: inherit;
+	font-size: 18pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.e1 {
+	font-size: 18pt;
+	font-weight: bold;	
+}
+
+.e1r {
+	font-size: 18pt;
+	font-weight: bold;	
+	color: Red;	
+}
+.e2 {
+	font-size: 14pt;
+	font-weight: bold;	
+}
+
+.e2r {
+	font-size: 14pt;
+	font-weight: bold;	
+	color: Red;
+}
+
+.e3 {
+	font-size: 12pt;
+	font-weight: bold;	
+}
+
+.e3r {
+	font-size: 12pt;
+	font-weight: bold;
+	color: Red;	
+}
+
+.e4 {
+	font-weight: bold;	
+}
+
+.e5 {
+	font-size: 10pt;
+	font-weight: bold;	
+}
+
+.e8 {
+	color: Red;
+}
+
+.e8b {
+	color: Red;
+	font-weight: bold;
+}
+
+.e9 {
+	font-size: 7pt;
+}
+
+.t1 {
+	background-color: White;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+.t2g {
+	background-color: #8FBC8F;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+.t2y {
+	background-color: #FFFF80;
+	color: #000080;
+	font-family: inherit;
+	font-size: 10pt;
+	text-align: left;
+	vertical-align: top;
+}
+
+.t3 {
+	background-color: #C0C0C0;
+	color: #000080;
+	font-family: inherit;
+	font-size: 14pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.t3y {
+	background-color: #FFFF80;
+	color: #000080;
+	font-family: inherit;
+	font-size: 14pt;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.t3lg {
+	background-color: #C0C0C0;
+	color: #000080;
+	font-family: inherit;
+	font-size: 18pt;
+	text-align: center;
+	vertical-align: middle;
+}
